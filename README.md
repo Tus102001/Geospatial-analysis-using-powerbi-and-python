@@ -1,4 +1,4 @@
-# Geospatial-analysis-using-powerbi-and-python# Geospatial-analysis-using-powerbi-and-python
+# Geospatial-analysis-using-powerbi-and-python
 
 ![image](https://github.com/Manpreetkaur0509/Geospatial-analysis-using-powerbi-and-python/assets/146500547/44d7b256-6616-4e0b-92c0-32f2f1f8d527)
 
